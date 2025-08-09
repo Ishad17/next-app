@@ -21,28 +21,28 @@ const Feature = ({
     title: "Lanka Polysacks (Pvt) Ltd",
     description:
       "Creating intuitive user experiences with modern interface design principles and user-centered methodologies.",
-    image: "/lps-site.jpg",
+    image: "./`lps-site.jpg",
     link: "https://lankapolysacks.lk",
   },
   feature2 = {
     title: "iWorld International (Pvt) Ltd",
     description:
       "Building websites that look and function perfectly across all devices and screen sizes.",
-    image: "/iworld-site.png",
+    image: "./iworld-site.png",
     link: "https://francium.lk/",
   },
   feature3 = {
     title: "Aqua Trading LLC",
     description:
       "Seamlessly incorporating your brand identity into every aspect of your website's design.",
-    image: "/aqua-site.png",
+    image: "./aqua-site.png",
     link: "https://aquatradingllc.com/",
   },
   feature4 = {
     title: "Dynamic General Trading",
     description:
       "Ensuring fast loading times and smooth performance through optimized code and assets.",
-    image: "/dgt-site.png",
+    image: "./dgt-site.png",
     link: "https://dynamicgeneraltrading.com/",
   },
 }: FeatureProps) => {

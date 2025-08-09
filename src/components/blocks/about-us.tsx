@@ -87,11 +87,11 @@ const About = ({
   title = "About Us",
   description = "VSTACK Solutions is a dedicated team of freelance web developers committed to delivering elegant, high-performance websites that empower businesses to thrive in the digital era. With a strong emphasis on modern design principles, responsive layouts, and user-focused functionality, we craft digital experiences that elevate brand presence and drive measurable success online.",
   mainImage = {
-    src: "aboutus.jpeg",
+    src: "./aboutus.jpeg",
     alt: "placeholder",
   },
   secondaryImage = {
-    src: "aboutus2.jpeg",
+    src: "./aboutus2.jpeg",
     alt: "placeholder",
   },
   breakout = {
